@@ -5,7 +5,7 @@
 ### The **Inventory Management System Dashboard** in Excel is a comprehensive tool designed to track and manage product flow efficiently across various business operations. It is divided into several functional sheets: **Purchase**, **Dashboard**, **Inventory**, **Sales**, **Products**, and **New Entry**, each serving a specific purpose.
 ## Purchase
 ### The **Purchase** sheet records all incoming stock from suppliers, including purchase date, supplier name, product details, quantity, and cost. This helps maintain a log of all procurement activities.
-<img scr="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185117.png">
+<img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185236.png">
 
 ## Dashboard
 ### The **Dashboard** provides a visual overview of the entire system. It includes key metrics such as total stock, low inventory alerts, top-selling products, and monthly sales/purchase trends using charts and pivot tables. It is the central monitoring point for business performance.
@@ -33,5 +33,6 @@
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185041.png">
 
 <img scr="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185146.png">
-<img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185236.png">
+
+<img scr="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185117.png">
 
