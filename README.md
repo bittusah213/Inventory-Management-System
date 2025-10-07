@@ -20,3 +20,4 @@
 ## Used Skill:
 ### Excel Functions:-Vlookup,Hlookup,sum,sumif,averageif,count,countif etc
 ### Pivot Table,Pivot chart,Data modelling,micro
+https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20184732.png
