@@ -17,6 +17,8 @@
 
 ## Sales
 ### The **Sales** sheet captures all outgoing inventory details—product sold, quantity, date, customer, and sale price. This data is critical for revenue tracking and inventory deduction.
+<img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185146.png">
+
 ## products
 ### The **Products** sheet serves as a master list of all items the business deals with, including product codes, categories, unit prices, and stock thresholds. It feeds other sheets through data validation and lookups.
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185041.png">
