@@ -22,3 +22,4 @@
 ### Pivot Table,Pivot chart,Data modelling,micro
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20184732.png">
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20184935.png">
+<img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185041.png">
