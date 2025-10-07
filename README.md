@@ -24,3 +24,5 @@
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20184935.png">
 <img src="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185041.png">
 <img scr="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185117.png">
+<img scr="https://github.com/bittusah213/Inventory-Management-System/blob/main/Screenshot%202025-10-07%20185146.png">
+<img src"
